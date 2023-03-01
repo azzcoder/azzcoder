@@ -13,8 +13,8 @@ Ben Aziz KARAGÜLMEZ Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği 1
 
 ###  Benimle bağlantı kur:
 
-[ <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ] [İnternet sitesi]
-[ <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> ] [Youtube]
+
+[ <img align="left" alt="codeSTACKr | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://www.youtube.com/channel/UCJtyO2hBTs9pqhv8_uG4NiQ)" /> ] [Youtube]
 [ <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> ] [twitter]
 [ <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ] [linkedin]
 [ <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> ] [instagram]
