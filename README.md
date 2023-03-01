@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋I'm Aziz </h1>
 
-<h3 align="center">🌱 I’m currently learning JAVA and Go <h/3>
+<h3 align="center">🌱 I’m currently learning JAVA  <h/3>
 
   
 
